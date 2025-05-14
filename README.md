@@ -17,10 +17,19 @@ A simple command-line Python app that displays real-time weather information bas
 - requests library
 - OpenWeatherMap API
 
-Project Structure
+## Project Structure
 weather-cli/
 ├── weather.py
 └── README.md
 
-Author
+## Sample Output
+=== Weather App ===
+Enter city name: London
+
+Weather in London:
+Temperature: 22.6°C
+Humidity: 41%
+Condition: Broken clouds
+
+## Author
 Created by Sheila Demonteverde @ 2025
